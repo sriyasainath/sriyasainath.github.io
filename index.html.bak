@@ -1,0 +1,358 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Hyperspace by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Sidebar -->
+			<section id="sidebar">
+				<div class="inner">
+					<nav>
+						<ul>
+							<li><a href="#intro">About Me</a></li>
+							
+							<li><a href="#one">Work Experience</a></li>
+							<li><a href="#two">Projects</a></li>
+							<li><a href="#three">Education</a></li>
+							<li><a href="#four">Extra-curricular Activities and Awards</a></li>
+							<li><a href="#five">CourseWork</a></li>
+							<li><a href="#six">Skills</a></li>
+							<li><a href="#seven">Contact Me</a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Intro -->
+					<section id="intro" class="wrapper style1 fullscreen fade-up">
+						<div class="inner">
+							<p class="serif"><h1>Sriya Sainath</h1></p>
+							<p class="serif">I'm an undergraduate in Computer Science and Engineering at <a href="https://nitrkl.ac.in/websiteNew/">National Institute of Technology, Rourkela.</a> I grew up in Bhubaneswar, Odisha.<br />
+							</p>
+							<p class="serif"><b>Career Objective</b></br>
+							To achieve a promising position in a stimulating workplace such that my skills and capabilities are optimally utilized for organizational and personal development.<br />
+							</p>
+
+							<ul class="actions">
+								<li><a href="images/Deedy_Resume (2).pdf" class="button scrolly" download>Download My Resume</a></li>
+							</ul>
+						</div>
+					</section>
+
+					
+
+				<!-- One -->
+					<section id="one" class="wrapper style2 spotlights">
+					
+						<section>
+							
+							<div class="content">
+								<div class="inner">
+									<h2>IIT Bombay,Project Ekalavya</h2>
+									<p>
+									<ul style="list-style-type:disc">
+  <li>Open Source Knowledge Initiative under the National Mission on Education through ICT. </li>
+  <li>Worked on developing a remote-triggered virtual laboratory. </li>
+  <li>Implemented a load-sharing and scalable architecture. </li>
+  <li> Created a master-slave system with a centralized database to avoid data inconsistencies. </li>
+</ul>  
+</p>
+									<ul class="actions">
+										<li><a href="https://github.com/sbhs-iitb" class="button">Github Organization Link</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						
+					<section>
+							<div class="content">
+								<div class="inner">
+									<h2>Jindal Stainless Limited</h2>
+									<ul style="list-style-type:disc">
+									 <li>Conducted a study on the existing Internet Security features along with the overall functioning of the IT department</li>
+									 <li>Worked on establishing the IT policies of the industry.</li>
+									</ul>
+									
+								</div>
+							</div>
+						</section>
+					
+					</section>
+
+
+
+				<!-- Two -->
+					<section id="two" class="wrapper style3 fade-up">
+						<div class="inner">
+							<h2>Projects Undertaken</h2>
+							
+							<div class="features">
+								<section>
+									<span class="icon major fa-car"></span>
+									<h3>Self-Regulating Traffic Management System</h3>
+									<p>Built a City Grid Simulator to model real-time traffic and implemented path-finding algorithms using data analyzed by processing live videos.</p>
+								</section>
+								<section>
+									<span class="icon major fa-user"></span>
+									<h3>Controllable Bot</h3>
+									<p>A robot whose movement can be controlled, viewing the path through a camera installed for detecting obstacles or fire hazards, and which can be directed with an Android phone.</p>
+								</section>
+								<section>
+									<span class="icon major fa-code"></span>
+									<h3>NIT Rourkela Alumni Association</h3>
+									<p>Website development for the NIT Rourkela Alumni Association(NITRAA) that serves to connect various alumni and students together.</p>
+								</section>
+								<section>
+									<span class="icon major fa-cogs"></span>
+									<h3>Hardware Museum</h3>
+									<p>Created and presented a hardware museum under the technical society of NIT Rourkela.</p>
+								</section>
+								<section>
+									<span class="icon major fa-terminal"></span>
+									<h3>Authorized Chatting Application</h3>
+									<p>An interactive application that allows unique user registration and both private, one-to-one messaging and a general discussion forum.</p>
+								</section>
+								</section>
+
+								<!-- three -->
+					<section id="three" class="wrapper style2 spotlights">
+					
+						<section>
+							
+							<div class="content">
+								<div class="inner">
+									<h3>National Institute of Technology, Rourkela</h3>
+									
+									<ul style="list-style-type:disc">
+  <li>B.Tech. in Computer Science and Engineering</li>
+  <li><b>CGPA: 9.92/10</b></li>
+  <li>Expected Graduation Year: 2019</li>
+</ul>
+  <h3>Loyola School, Bhubaneswar</h3>
+									<ul style="list-style-type:disc">
+									 <li>Intermediate, Science - 2015</li>
+									 <li>Percentage: 95.60/100</li>
+									</ul>
+
+<h3>Loyola School, Bhubaneswar</h3>
+									<ul style="list-style-type:disc">
+									 <li>Matriculation - 2013</li>
+									 <li>Percentage: 93.33/100</li>
+									</ul>
+
+  
+  
+
+									
+								</div>
+							</div>
+						
+					
+					
+					</section>
+								
+							
+					</section>
+	<!-- four -->
+					<section id="four" class="wrapper style3 fade-up">
+						<div class="inner">
+							
+							
+							<div class="features">
+								<section>
+									<span class="icon major fa-plus"></span>
+									<h3>Extra-Curricular Activities</h3>
+									<ul style="list-style-type:disc">
+  <li><b>Mentor </b></br> Student Counselling Program</li>
+  <li><b>Dean's Nominee</b> </br> Games and Sports Society</li>
+  <li><b>Vice President </b></br> Clarion </br>(Debating/Literary Club)</li>
+  <li><b>Technical Head </b></br> D361 (Magazine and Website)</li>
+  <li><b>Creative Head</b> </br> SPAWN (Technical Club)</li>
+  <li><b>Journalist</b> </br> Monday Morning </br>(E-newsletter)</li>
+  <li><b>Writer</b> </br> Et Cetera (Literary Website)</li>
+  <li><b>Member</b> </br> AASRA (Social Service Club)</li>
+</ul>  
+
+								</section>
+								
+								<section>
+									<span class="icon major fa-trophy"></span>
+									<h3>Awards</h3>
+									<ul style="list-style-type:disc">
+  <li><b>ISC Topper</b> | Kingston Education Awards</li>
+  <li><b>First Rank, HSC</b> | Inductotherm (India) Pvt. Ltd. Scholarship</li>
+  <li><b>First, Academics</b> | NIT Rourkela, First and Second Year</li>
+  <li><b>State Awards</b> | Science, Maths, English Olympiads (NSO,IMO,IEO)</li>
+  <li><b>Best Athlete</b> | Loyola School</li>
+  <li><b>Academic Excellence Award for 10+2</b> | Loyola School</li>
+  <li><b>Best Player</b> | Throwball</li>
+  <li><b>First Place</b> | Disaster Diagnostics</li>
+  <li><b>First Place</b> | Script Writing</li>
+  <li><b>Team Captain</b> | Basketball (Runners-up)</li>
+</ul>
+								</section>
+								</section>
+								<section>
+
+								<!-- five -->
+					<section id="five" class="wrapper style2 spotlights">
+					
+						<section>
+							
+							<div class="content">
+								<div class="inner">
+									<h2>CourseWork</h2>
+									<p>
+									<ul style="list-style-type:disc">
+  <li>Linear Programming</li>
+  <li>Algorithm Analysis and Design</li>
+  <li>Computer Organization and Architecture</li>
+  <li>Data Structures and Algorithms</li>
+  <li>Database Management Systems</li>
+  <li>Principles of Programming Languages</li>
+</ul>  
+</p>
+									
+								</div>
+							</div>
+						</section>
+						
+					
+					
+					</section>
+
+
+<!-- six -->
+					<section id="six" class="wrapper style3 fade-up">
+						<div class="inner">
+							<h2>Skills</h2>
+							
+							<div class="features">
+								<section>
+									<span class="icon major fa-terminal"></span>
+									<h3>General Programming</h3>
+									<p>JAVA, Python, C, C++</p>
+								</section>
+								<section>
+									<span class="icon major fa-terminal"></span>
+									<h3>Databases</h3>
+									<p>MySQL, ORACLE, SQLite</p>
+								</section>
+								<section>
+									<span class="icon major fa-code"></span>
+									<h3>Frameworks</h3>
+									<p>DJANGO, Bootstrap</p>
+								</section>
+								<section>
+									<span class="icon major fa-code"></span>
+									<h3>Markup and Style Sheet Languages</h3>
+									<p>HTML, CSS</p>
+								</section>
+								<section>
+									<span class="icon major fa-desktop"></span>
+									<h3>Computer-Aided Design</h3>
+									<p>AutoCAD, SolidWorks</p>
+								</section>
+								<section>
+									<span class="icon major fa-desktop"></span>
+									<h3>Other Software</h3>
+									<p>JavaScript, MATLAB, MS Office, LaTeX </p>
+								</section>
+								</section>
+
+
+				<!-- seven -->
+					<section id="seven" class="wrapper style1 fade-up">
+						<div class="inner">
+							<h2>Contact Me</h2>
+							
+							<div class="split style1">
+								<section>
+									<form method="post" action="mailto:sainathsriya@gmail.com">
+										<div class="field half first">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="5"></textarea>
+										</div>
+										<ul class="actions">
+											<li><a href="" class="button submit">Send Message</a></li>
+										</ul>
+									</form>
+								</section>
+								<section>
+									<ul class="contact">
+										<li>
+											<h3>Address</h3>
+											<span>VM-14, Dzongri-la,<br />
+											VSS Nagar, Bhubaneswar,<br />
+											Odisha, India.</span>
+										</li>
+										<li>
+											<h3>Email</h3>
+											<a href="mailto:sainathsriya@gmail.com">sainathsriya@gmail.com</a>
+										</li>
+										<li>
+											<h3>Phone</h3>
+											<span>+91-8342036899</span>
+										</li>
+										<li>
+											<h3>Account Links</h3>
+											<ul class="icons">
+											
+												<li><a href="https://github.com/sriyasainath" class="fa-github"><span class="label">GitHub</span></a></li>
+												<a href="https://github.com/sriyasainath">Github</a>
+												<br />
+												<li><a href="https://www.linkedin.com/in/sriya-sainath/" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+												<a href="https://www.linkedin.com/in/sriya-sainath/">LinkedIn</a>
+											</ul>
+										</li>
+									</ul>
+								</section>
+							</div>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper style1-alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>@Sriya Sainath</li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
