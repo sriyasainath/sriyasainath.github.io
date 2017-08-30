@@ -66,12 +66,13 @@
 							<div class="content">
 								<div class="inner">
 									<h2>IIT Bombay,Project Ekalavya</h2>
+									<a href="https://github.com/sbhs-iitb/">Github Organization Link</a>
 									<p>
 									<ul style="list-style-type:disc">
   <li>Open Source Knowledge Initiative under the National Mission on Education through ICT. </li>
   <li>Worked on developing a remote-triggered virtual laboratory. </li>
   <li>Implemented a load-sharing and scalable architecture. </li>
-  <li> Created a master-slave system with a centralized database to avoid data inconsistencies. </li>
+  <li> Created a reliable master-slave system with a centralized database to avoid data inconsistencies. </li>
 </ul>  
 </p>
 									<ul class="actions">
