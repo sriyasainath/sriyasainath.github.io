@@ -66,7 +66,7 @@
 							<div class="content">
 								<div class="inner">
 									<h2>IIT Bombay,Project Ekalavya</h2>
-									<a href="https://github.com/sbhs-iitb/">Github Organization Link</a>
+									
 									<p>
 									<ul style="list-style-type:disc">
   <li>Open Source Knowledge Initiative under the National Mission on Education through ICT. </li>
@@ -113,7 +113,7 @@
 								<section>
 									<span class="icon major fa-user"></span>
 									<h3>Controllable Bot</h3>
-									<p>A robot whose movement can be controlled, viewing the path through a camera installed for detecting obstacles or fire hazards, and which can be directed with an Android phone.</p>
+									<p>A robot whose movement can be controlled, viewing the path through a camera installed for detecting obstacles or fire hazards. It can be directed with an Android phone.</p>
 								</section>
 								<section>
 									<span class="icon major fa-code"></span>
@@ -130,6 +130,9 @@
 									<h3>Authorized Chatting Application</h3>
 									<p>An interactive application that allows unique user registration and both private, one-to-one messaging and a general discussion forum.</p>
 								</section>
+								<section>
+								
+								</section>
 								</section>
 
 								<!-- three -->
@@ -139,6 +142,7 @@
 							
 							<div class="content">
 								<div class="inner">
+								<h2>Education</h2>
 									<h3>National Institute of Technology, Rourkela</h3>
 									
 									<ul style="list-style-type:disc">
